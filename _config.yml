@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "CHOBO Developer - soo's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Soo07"
-description              : "CHOBO Korean Developer Soo's Blog"
+name                     : "Soo"
+description              : "초보  Soo's Blog"
 url                      : "https://Soobin07.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Soo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am JUST a Programmer."
+  bio              : "JAVA기반 웹 개발자. 프론트부터 DB까지 풀스텍 개발자가 되고싶습니다. HTML CSS JAVASCRIPT ANGULARJS // SPRING 전자정부프레임워크 // ORACLE MYSQL MARIADB // GIT SVN 사용경험 있음 // 使用言語：Java. WEBのfrontからサーバーまで、使えるシステムエンジニアになりたいです"
   location         : "Somewhere"
   email            :
   links:
