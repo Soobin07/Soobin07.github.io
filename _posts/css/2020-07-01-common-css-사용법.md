@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: css
 ---
 같은 요소, 같은 자리에 이미지 등을 넣기 위해서는
 .className {background: url(/src/file) no-repeat;}
