@@ -1,0 +1,7 @@
+---
+title: "jQuery선택자 사용법"
+date: 2020-07-02 20:40:00 -0400
+categories: jquery
+---
+Jquery에서 요소를 선택할 때, $(".class1 .class1ChildClass ")등 과 같이 사용하여도 
+class1 아래의 class1ChildClass를 찾을 수 
